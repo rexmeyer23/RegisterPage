@@ -1,0 +1,59 @@
+.navbar {
+    overflow: hidden;
+    background-color: white;
+    border-style: inset;
+    border-color: gray;
+    border-radius: 5px;
+    position: fixed;
+    top: 0;
+    width: 1100px;
+}
+.navbar a {
+    float: right;
+    display: block;
+    color: #3e20e9;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+}
+button {
+    font-weight: bold;
+}
+#button1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    padding: 15px;
+    width: 100px;
+    height: 25px;
+    color: white;
+}
+#button2 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    padding: 15px;
+    width: 100px;
+    height: 25px;
+    color: white;
+}
+#button3 {
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.formcontainer {
+    border-style: inset;
+    border-color: gray;
+    border-radius: 5px;
+    background-color: white;
+    float: center;
+    text-align: center;
+    margin: 70px 400px 36px;
+    width: 300px;
+    height: 560px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.circular_images{   
+  border-radius: 50%;
+}
